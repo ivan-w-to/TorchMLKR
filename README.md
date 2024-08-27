@@ -10,4 +10,4 @@ metric learning. They offer one of the few implementations of MLKR that I know o
 
 ## Dependencies
 - PyTorch
-- Matplotlib if one wishes to run the tests
+- Matplotlib (if one wishes to run the tests)
