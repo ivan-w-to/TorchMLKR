@@ -1,6 +1,6 @@
 # Deep Metric Learning for Regression
 
-This repository seeks to provide classes and functions that simplify the production of metric learning neural networks for few-shot regression problems, problems where
+This repository seeks to streamline the production of metric learning neural networks for few-shot regression problems, problems where
 the dataset is relatively small and the variability among labeled examples is relatively large. 
 Deep metric learning has been popularly used for few-shot classification problems (e.g. face recognition), but the literature on metric learning for regression has been
 quite scant. [Metric Learning for Kernel Regression (MLKR)](https://proceedings.mlr.press/v2/weinberger07a/weinberger07a.pdf) by Weinberger and Tesauro is a seminal work in this
