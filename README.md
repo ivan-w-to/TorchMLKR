@@ -1,4 +1,4 @@
-# Pytorch-Compatible Metric Learning for Kernel Regression (TorchMLKR)
+# PyTorch-Compatible Metric Learning for Kernel Regression (TorchMLKR)
 
 This repository seeks to streamline the production of metric learning neural networks for few-shot regression problems, problems where
 the dataset is relatively small and the variability among labeled examples is relatively large. 
